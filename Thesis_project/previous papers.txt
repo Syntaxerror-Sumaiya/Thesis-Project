@@ -1,0 +1,114 @@
+1. https://aip.scitation.org/doi/pdf/10.1063/1.5141622?fbclid=IwAR3WYOo1Aew701Q5H5VhAtk4d8Foeof4yG9SFt9r-Aah5OolJshBmGZLig8
+
+
+The effect of frequency owl’s sound, crickets,
+and combination of both towards rat
+reaction
+
+2. https://iopscience.iop.org/article/10.1088/1757-899X/850/1/012034/pdf?fbclid=IwAR2YQyEkj4WQweQYqDyh-c5OKI7PKClBI_uJ37Rs2XZQLusUsU61zb-likc
+
+Automatic farmer pest repellent with Arduino
+ATmega2560 based on sound displacement
+technique
+
+
+*************https://link.springer.com/book/10.1007/978-981-15-0794-6?noAccess=true&fbclid=IwAR1paSB0Xa0vzemqp-MW5pHGYZNdtKmsV4Zr8ABpbaCdCiFNs1a_8BcvkCg
+
+
+3. https://www.neliti.com/publications/268405/bird-pest-attack-and-sound-characteristics-of-bamboo-traditional-instruments-as
+
+Bird Pest Attack and Sound Characteristics of Bamboo Traditional Instruments as Bird Pest Repellent on Rice Fields in Bali
+
+
+4. https://d1wqtxts1xzle7.cloudfront.net/55868738/58_editd_finalized_v2-with-cover-page-v2.pdf?Expires=1653846292&Signature=DQh00oMJG~vBsukzcCwC~SNedUQdzy5reNRGYe20k6fYQlpONCGusqvXVSQNQOmE3evvEhAJbQ2PojAFEPIv5eDktVJDwwdMys0jaBX16462W11MHqeFFBCwBBdKCRpxXJhBU1EmAbvlD4pZcnLbHiqHBbv6Uta4r-MCCApEaCyw0J79WOacu8-bgdNrzRL4doi1rvG3AyBdF~fQuKyihS8LZyAVdgiDLxkMhSAdRlV-uo7UYANwUDpuqCYAslIYtTgBBkQ7Up1752GXZxnmSaH1CX0m1zguYDJQg7xYfyr6FjSczdT3NiSyiyZxSMzqQ2kT944~HLTFwIZweFE1iw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
+
+INTELLIGENT PEST REPELLENT
+SYSTEM FOR SRI LANKAN
+FARMING INDUSTRY
+
+5. https://ieeexplore.ieee.org/abstract/document/9410712
+
+Ultrasonic Locust Repellent Circuit
+
+6. https://www.sciencedirect.com/science/article/abs/pii/S0261219499000599
+
+Changes in rice farmers’ pest management in the Mekong Delta, Vietnam
+
+7. https://ieeexplore.ieee.org/abstract/document/7890869
+
+Solar powered smart ultrasonic insects repellent with DTMF and manual control for agriculture
+
+8. https://ieeexplore.ieee.org/abstract/document/9166304
+
+WSN Based Agricultural Bird Pest Control with Buzzer and a Mesh Network
+
+9. https://ieeexplore.ieee.org/abstract/document/9002046
+
+IoT Based Pest Controlling System for Smart Agriculture
+
+10. https://link.springer.com/chapter/10.1007/978-981-15-4851-2_12
+
+Animal Repellents from Agricultural Fields
+
+11. https://core.ac.uk/download/pdf/301119129.pdf
+
+FREQUENCY BASED FLY REPELLENT
+
+12. https://ieeexplore.ieee.org/abstract/document/8933607
+
+Smart Ultrasonic Insects & Pets Repeller for Farms & Inventories Purpose
+
+13. https://pels.umsida.ac.id/index.php/PELS/article/view/762
+
+Microcontroller-based Bird Pest Repellent in Rice Plants
+
+14. https://www.researchgate.net/profile/Saeed-Azfar-2/publication/275155897_Pest_Detection_and_Control_Techniques_Using_Wireless_Sensor_Network_A_Review/links/55348c860cf2f2a588b25df0/Pest-Detection-and-Control-Techniques-Using-Wireless-Sensor-Network-A-Review.pdf
+
+Pest detection and control techniques using
+wireless sensor network: A review 
+
+15. https://ieeexplore.ieee.org/abstract/document/9526317
+
+Design and Implementation of Wereng Pest Based on Internet of Things
+
+16. https://iopscience.iop.org/article/10.1088/1742-6596/1477/3/032012/pdf
+
+Evaluation Methods of Bird Repellent Devices in
+Optimizing Crop Production in Agriculture
+
+
+
+
+
+
+17. https://www.ijera.com/papers/vol11no5/Series-7/D1105072124.pdf
+
+Intelligent e- Pest Repellent System
+
+18. http://ijariie.com/AdminUploadPdf/Protection_of_crops_from_insects_using_Microwave_Frequency__ijariie14116.pdf
+
+PROTECTION OF CROPS FROM INSECTS
+USING MICROWAVE FREQUENCY: A
+REVIEW
+
+19. https://www.theijes.com/papers/v2-i9/Part.3/D0293026030.pdf
+
+Electronic Pest Control Devices: A Review of their Necessity,
+Controversies and a submission of Design Considerations
+
+20. https://www.irjmets.com/uploadedfiles/paper/volume3/issue_5_may_2021/9863/1628083396.pdf
+
+SMART ULTRASONIC VARIABLE FREQUENCY PEST REPELLENT
+
+21. https://www.scribd.com/document/525271521/3
+
+Development Performance and Evaluation of Ultrasonic Pest and Insect Repelling System
+
+
+
+
+
+
+
+
+
